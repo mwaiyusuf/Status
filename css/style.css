@@ -1,0 +1,35 @@
+html,
+body,
+.container{
+    height:100%;
+}
+
+body{
+    background: url("/img/dhiva-krishna-358262.jpg")no-repeat center center
+        fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+}
+#go{
+    text-align: center;
+     
+}
+h1{
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: green;
+    font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Lobster', cursive;
+
+}
+p{
+   font-family: 'Pacifico', cursive;
+    font-weight: bold;
+    font-style: italic;
+    color: #f44336;
+}
+
+ 
