@@ -32,4 +32,14 @@ p{
     color: #f44336;
 }
 
+@media (max-width: 575px) { 
+    h1{
+        color:aqua;
+        margin-left: 50px;
+        margin-top: 190px;
+        margin-right: 50px;
+    }
+}
+
+
  

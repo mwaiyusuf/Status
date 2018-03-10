@@ -1,2 +1,2 @@
 # Status
-Recently
+stronger than but incomplete
