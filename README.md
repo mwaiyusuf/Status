@@ -1,4 +1,4 @@
-# Status
+# Status.
 A site from cssdesign awards
 contains a background image and a navbar
 # Technology used
